@@ -1,2 +1,2 @@
-# -Bertoti_Arquitetura_Rest
+# Bertoti
 Repositório dedicado aos projetos utilizando Quarkus e Springboot em Java WEB.
